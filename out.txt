@@ -1,0 +1,3 @@
+Ana 5
+Juana 4
+Juan 7
